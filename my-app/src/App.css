@@ -1,0 +1,55 @@
+html {
+  background: #000;
+  color: #fff;
+  font-family: Comic Sans MS;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+nav {
+  margin-top: 40px;
+}
+.sun {
+ width: 90%;
+}
+.sun {
+    width: 80%;
+}
+a {
+  color: #fff;
+  margin-left: 20px;
+  margin-right: 20px;
+  text-decoration: none;
+}
+img {
+  margin-top: 100px;
+  width: 25%;
+}
+h1,
+p {
+  margin-left: 30%;
+  margin-right: 30%;
+}
+p {
+  margin-bottom: 100px;
+}
+input {
+  border-radius: 15px;
+  border: 0;
+  margin-left: 10px;
+  padding-right: 175px;
+  padding-left: 5px;
+}
+button {
+  background: #fff;
+  border-radius: 15px;
+  border: 0;
+  font-family: Comic Sans MS;
+  padding: 5px 35px;
+  margin-bottom: 50px;
+  margin-left: 95px;
+  margin-top: 15px;
+}
+button:hover {
+  cursor: pointer;
+}
